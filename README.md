@@ -1,6 +1,10 @@
 # tokyo-olympic-azure-data-eng-project
 
-Used Azure solutions to create an end-to-end project that analyzes the data about the Tokyo Olympics (pulled from Kaggle).
+Used Microsoft Azure to create an end-to-end project that analyzes the Tokyo Olympics data (pulled from Kaggle). 
+
+Here is an overview of what i have built in this lab.
+![image](https://github.com/s2muhamm/tokyo-olympic-azure-data-eng-project/assets/47164032/8501c83c-001a-4059-880c-96e198e38d37)
+
 
 -Azure Data Factory to upload the raw data to the storage container in Azure Data Lake Gen2. 
 ![image](https://github.com/s2muhamm/tokyo-olympic-azure-data-eng-project/assets/47164032/e8d43c13-c6f3-4151-a71c-5f145550d6ee)
