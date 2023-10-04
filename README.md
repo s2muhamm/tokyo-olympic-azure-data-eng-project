@@ -1,4 +1,4 @@
-# tokyo-olympic-azure-data-eng-project
+End-to End Data Engineering Project
 
 Used Microsoft Azure to create an end-to-end project that analyzes the Tokyo Olympics data (pulled from Kaggle). 
 
