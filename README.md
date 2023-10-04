@@ -15,4 +15,5 @@ Here is an overview of what i have built in this lab.
 (Refer to the notebook)
 
 -Synapse Analytics to write some SQL queries to test some use cases on the transformed data. 
-![image](https://github.com/s2muhamm/tokyo-olympic-azure-data-eng-project/assets/47164032/e7dc0e7e-3f65-495b-8d80-2544f4fa4c8d)
+![image](https://github.com/s2muhamm/tokyo-olympic-azure-data-eng-project/assets/47164032/32b31ddb-4469-46fd-8eff-92121e410bd0)
+
