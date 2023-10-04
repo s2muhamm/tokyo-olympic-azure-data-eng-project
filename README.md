@@ -11,7 +11,7 @@ Here is an overview of what i have built in this lab.
 ![image](https://github.com/s2muhamm/tokyo-olympic-azure-data-eng-project/assets/47164032/afcdc8b2-8fbe-42d5-9ea1-6b91c9dd3bbf)
 
 
--Databricks to import the data from the storage container and then use Spark to transform the data and drop it in another storage container in Azure Data Lake Gen2. 
+-Databricks to transform data and save it in Azure Data Lake Gen2. 
 (Refer to the notebook)
 
 -Synapse Analytics to write some SQL queries to test some use cases on the transformed data. 
